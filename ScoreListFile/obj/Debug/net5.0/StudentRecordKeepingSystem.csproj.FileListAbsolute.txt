@@ -1,0 +1,144 @@
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\StudentRecordKeepingSystem.exe
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\StudentRecordKeepingSystem.deps.json
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\StudentRecordKeepingSystem.runtimeconfig.json
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\StudentRecordKeepingSystem.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\StudentRecordKeepingSystem.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\ref\StudentRecordKeepingSystem.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\StudentRecordKeepingSystem.pdb
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\obj\Debug\net5.0\StudentRecordKeepingSystem.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\obj\Debug\net5.0\StudentRecordKeepingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\obj\Debug\net5.0\StudentRecordKeepingSystem.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\obj\Debug\net5.0\StudentRecordKeepingSystem.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\obj\Debug\net5.0\StudentRecordKeepingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\obj\Debug\net5.0\StudentRecordKeepingSystem.csproj.CopyComplete
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\obj\Debug\net5.0\StudentRecordKeepingSystem.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\obj\Debug\net5.0\ref\StudentRecordKeepingSystem.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\obj\Debug\net5.0\StudentRecordKeepingSystem.pdb
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystem\obj\Debug\net5.0\StudentRecordKeepingSystem.genruntimeconfig.cache
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\StudentRecordKeepingSystem.exe
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\StudentRecordKeepingSystem.deps.json
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\StudentRecordKeepingSystem.runtimeconfig.json
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\StudentRecordKeepingSystem.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\StudentRecordKeepingSystem.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\ref\StudentRecordKeepingSystem.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\StudentRecordKeepingSystem.pdb
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\obj\Debug\net5.0\StudentRecordKeepingSystem.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\obj\Debug\net5.0\StudentRecordKeepingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\obj\Debug\net5.0\StudentRecordKeepingSystem.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\obj\Debug\net5.0\StudentRecordKeepingSystem.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\obj\Debug\net5.0\StudentRecordKeepingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\obj\Debug\net5.0\StudentRecordKeepingSystem.csproj.CopyComplete
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\obj\Debug\net5.0\StudentRecordKeepingSystem.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\obj\Debug\net5.0\ref\StudentRecordKeepingSystem.dll
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\obj\Debug\net5.0\StudentRecordKeepingSystem.pdb
+C:\Users\Favour .O\Desktop\csharp\StudentRecordKeepingSystemFile\obj\Debug\net5.0\StudentRecordKeepingSystem.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\StudentRecordKeepingSystem.exe
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\StudentRecordKeepingSystem.deps.json
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\StudentRecordKeepingSystem.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\StudentRecordKeepingSystem.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\StudentRecordKeepingSystem.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\ref\StudentRecordKeepingSystem.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\StudentRecordKeepingSystem.pdb
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\obj\Debug\net5.0\StudentRecordKeepingSystem.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\obj\Debug\net5.0\StudentRecordKeepingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\obj\Debug\net5.0\StudentRecordKeepingSystem.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\obj\Debug\net5.0\StudentRecordKeepingSystem.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\obj\Debug\net5.0\StudentRecordKeepingSystem.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\obj\Debug\net5.0\StudentRecordKeepingSystem.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\obj\Debug\net5.0\StudentRecordKeepingSystem.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\obj\Debug\net5.0\ref\StudentRecordKeepingSystem.dll
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\obj\Debug\net5.0\StudentRecordKeepingSystem.pdb
+C:\Users\TOSHIBA\Desktop\StudentRecordFile\obj\Debug\net5.0\StudentRecordKeepingSystem.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\StudentRecordKeepingSystem.exe
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\StudentRecordKeepingSystem.deps.json
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\StudentRecordKeepingSystem.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\StudentRecordKeepingSystem.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\StudentRecordKeepingSystem.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\ref\StudentRecordKeepingSystem.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\StudentRecordKeepingSystem.pdb
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\obj\Debug\net5.0\StudentRecordKeepingSystem.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\ContactListFile\obj\Debug\net5.0\StudentRecordKeepingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\ContactListFile\obj\Debug\net5.0\StudentRecordKeepingSystem.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\ContactListFile\obj\Debug\net5.0\StudentRecordKeepingSystem.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\ContactListFile\obj\Debug\net5.0\StudentRecordKeepingSystem.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\ContactListFile\obj\Debug\net5.0\StudentRecordKeepingSystem.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\ContactListFile\obj\Debug\net5.0\StudentRecordKeepingSystem.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\obj\Debug\net5.0\ref\StudentRecordKeepingSystem.dll
+C:\Users\TOSHIBA\Desktop\ContactListFile\obj\Debug\net5.0\StudentRecordKeepingSystem.pdb
+C:\Users\TOSHIBA\Desktop\ContactListFile\obj\Debug\net5.0\StudentRecordKeepingSystem.genruntimeconfig.cache
